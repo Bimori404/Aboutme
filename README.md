@@ -18,16 +18,16 @@ const findme = [
 
 + 💻 Lenguajes de programacion (DSL y GPL)
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,bootstrap&perline=6)](https://skillicons.dev)
+[![dsl-gpl](https://skillicons.dev/icons?i=java,html,css,bootstrap&perline=6)](https://skillicons.dev)
 
 + ⚙ Software
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma&perline=6)](https://skillicons.dev)
+[![software](https://skillicons.dev/icons?i=vscode,figma,xd&perline=6)](https://skillicons.dev)
 
 + ☁ Host
 
-[![My Skills](https://skillicons.dev/icons?i=netlify,vercel&perline=6)](https://skillicons.dev)
+[![hosting](https://skillicons.dev/icons?i=netlify,vercel&perline=6)](https://skillicons.dev)
 
 + 📚 Quiero aprender/Estoy aprendiendo actualmente
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,js,vue,php&perline=6)](https://skillicons.dev)
+[![learn-learning](https://skillicons.dev/icons?i=ai,ps,js,vue,php&perline=6)](https://skillicons.dev)
