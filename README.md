@@ -35,8 +35,6 @@ const findme = [
 
 ## Top Open Source
 
-[![Evaluacion Expresiones PROLOG](https://github-readme-stats.vercel.app/api/pin/?username=Bimori404&repo=EvaluacionExpresionesPROLOG&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Bimori404/EvaluacionExpresionesPROLOG)
-
 [![Bin-Go](https://github-readme-stats.vercel.app/api/pin/?username=Bimori404&repo=BinGo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://bin-go.vercel.app)
 
 [![Generador de Numeros Aleatorios](https://github-readme-stats.vercel.app/api/pin/?username=Bimori404&repo=GeneradorDeNumerosAleatorios&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Bimori404/GeneradorDeNumerosAleatorios)
