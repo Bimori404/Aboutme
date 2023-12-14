@@ -35,9 +35,14 @@ const findme = [
 
 ## Top Open Source
 
-[![Evaluacion Expresiones PROLOG](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Bimori404/EvaluacionExpresionesPROLOG)
-[![Bin-Go](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](bin-go.vercel.app)
-[![Generador de Numeros Aleatorios](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Bimori404/GeneradorDeNumerosAleatorios)
-[![Flores Amarillas](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://floricienta.netlify.app/)
-[![Operaciones con Conjuntos](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://operaciones-con-conjuntos.netlify.app)
-[![VerdIA](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://verdia.netlify.app/)
+[![Evaluacion Expresiones PROLOG](https://github-readme-stats.vercel.app/api/pin/?username=Bimori404&repo=EvaluacionExpresionesPROLOG&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Bimori404/EvaluacionExpresionesPROLOG)
+
+[![Bin-Go](https://github-readme-stats.vercel.app/api/pin/?username=Bimori404&repo=BinGo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](bin-go.vercel.app)
+
+[![Generador de Numeros Aleatorios](https://github-readme-stats.vercel.app/api/pin/?username=Bimori404&repo=GeneradorDeNumerosAleatorios&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Bimori404/GeneradorDeNumerosAleatorios)
+
+[![Flores Amarillas](https://github-readme-stats.vercel.app/api/pin/?username=Bimori404&repo=YellowFlowers&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://floricienta.netlify.app/)
+
+[![Operaciones con Conjuntos](https://github-readme-stats.vercel.app/api/pin/?username=Bimori404&repo=OperacionesConConjuntos&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://operaciones-con-conjuntos.netlify.app)
+
+[![VerdIA](https://github-readme-stats.vercel.app/api/pin/?username=Bimori404&repo=verdia-screen-analisys&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://verdia.netlify.app/)
