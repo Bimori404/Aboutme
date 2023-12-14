@@ -5,6 +5,7 @@
 + 🤝 Introvertido con tendencia a disociarse
 + 👨‍💻 Web developer frontend
 + ⚡ Smol and Dunb
+
 ## 🔗 Perfiles
 
 ```js
@@ -31,3 +32,12 @@ const findme = [
 + 📚 Quiero aprender/Estoy aprendiendo actualmente
 
 [![learn-learning](https://skillicons.dev/icons?i=ai,ps,js,vue,php&perline=6)](https://skillicons.dev)
+
+## Top Open Source
+
+[![Evaluacion Expresiones PROLOG](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Bimori404/EvaluacionExpresionesPROLOG)
+[![Bin-Go](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](bin-go.vercel.app)
+[![Generador de Numeros Aleatorios](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Bimori404/GeneradorDeNumerosAleatorios)
+[![Flores Amarillas](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://floricienta.netlify.app/)
+[![Operaciones con Conjuntos](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://operaciones-con-conjuntos.netlify.app)
+[![VerdIA](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://verdia.netlify.app/)
