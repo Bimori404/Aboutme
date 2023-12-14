@@ -43,6 +43,4 @@ const findme = [
 [![Evaluacion Expresiones PROLOG](https://github-readme-stats.vercel.app/api/pin/?username=Bimori404&repo=EvaluacionExpresionesPROLOG&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Bimori404/EvaluacionExpresionesPROLOG){:target="_blank"}
 [![Generador de Numeros Aleatorios](https://github-readme-stats.vercel.app/api/pin/?username=Bimori404&repo=GeneradorDeNumerosAleatorios&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Bimori404/GeneradorDeNumerosAleatorios){:target="_blank"} -->
 
-<a href="https://verdia.netlify.app/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimori404&repo=verdia-screen-analisys&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Verdia Screen Analysis">
-</a>
+[![Verdia Screen Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Bimori404&repo=verdia-screen-analisys&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://verdia.netlify.app/){:target="_blank" rel="noopener"}
