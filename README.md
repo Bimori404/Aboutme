@@ -19,7 +19,7 @@ const findme = [
 
 + 💻 Lenguajes de programacion (DSL y GPL)
 
-[![dsl-gpl](https://skillicons.dev/icons?i=java,html,css,bootstrap&perline=6)](https://skillicons.dev)
+[![dsl-gpl](https://skillicons.dev/icons?i=java,html,css,bootstrap,tailwind&perline=6)](https://skillicons.dev)
 
 + ⚙ Software
 
