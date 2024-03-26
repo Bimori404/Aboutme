@@ -11,7 +11,6 @@
 ```js
 const findme = [
   { name: "💼 Linkedin", url: "https://www.linkedin.com/in/jsamuelpgonzalez/" },
-  { name: "📷 Instagram", url: "https://www.instagram.com/who.is.bimori/" },
   { name: "🎁 Portfolio", url: "https://samuelgonzalez.netlify.app/" }
 ```
 
